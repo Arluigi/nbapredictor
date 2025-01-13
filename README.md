@@ -1,6 +1,6 @@
 # NBA Game Predictor
 
-This NBA predictor uses machine learning to forecast game outcomes based on team statistics. The model analyzes points, shooting, rebounds, and assists to predict which team will win with 60% accuracy.
+This NBA predictor uses machine learning to forecast game outcomes based on team statistics. The model analyzes points, shooting, rebounds, and assists to predict which team will win.
 
 ## Overview
 
