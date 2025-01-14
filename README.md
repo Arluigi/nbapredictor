@@ -1,6 +1,6 @@
 (To open this in Google Colab, click [here](https://githubtocolab.com/Arluigi/nbapredictor)!)
 
-# The Evolution of NBA Scoring: A Deep Dive into the 3-Point Revolution
+# The Evolution of NBA Scoring
 
 An analysis of how NBA scoring has transformed over time, with a focus on the revolutionary impact of the 3-point shot, culminating in a predictive model for game outcomes.
 
