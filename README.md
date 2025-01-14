@@ -1,3 +1,5 @@
+(To open this in Google Colab, click [here](https://githubtocolab.com/Arluigi/nbapredictor)!)
+
 # NBA Game Predictor
 
 This NBA predictor uses machine learning to forecast game outcomes based on team statistics. The model analyzes points, shooting, rebounds, and assists to predict which team will win.
