@@ -1,22 +1,24 @@
 (To open this in Google Colab, click [here](https://githubtocolab.com/Arluigi/nbapredictor)!)
 
-# NBA Game Predictor
+# The Evolution of NBA Scoring: A Deep Dive into the 3-Point Revolution
 
-This NBA predictor uses machine learning to forecast game outcomes based on team statistics. The model analyzes points, shooting, rebounds, and assists to predict which team will win.
+An analysis of how NBA scoring has transformed over time, with a focus on the revolutionary impact of the 3-point shot, culminating in a predictive model for game outcomes.
 
 ## Overview
 
-The project analyzes NBA game data from 1946 to 2023, with a focus on:
-- Historical trends in 3-point shooting
-- Evolution of scoring patterns
-- Team performance metrics
-- Game outcome predictions
+This project explores the NBA's scoring evolution from 1946 to 2023, examining:
+- The transformation of scoring patterns since the 3-point line's introduction
+- Historical trends in shooting accuracy and shot selection
+- The growing influence of 3-point shooting on team strategy
+- Modern scoring patterns and their impact on game outcomes
+- Predictive modeling for game results
 
 ## Features
 
-- Interactive game prediction interface
-- Team statistics comparison
-- Historical data visualization
+- Comprehensive statistical analysis of NBA scoring evolution
+- Interactive data visualizations showing historical trends
+- Team performance comparisons across different eras
+- Game prediction system using modern team metrics
 - Machine learning model using Random Forest Classifier
 
 ## Requirements
@@ -32,7 +34,8 @@ The project analyzes NBA game data from 1946 to 2023, with a focus on:
 1. Clone the repository
 2. Install required packages: `pip install -r requirements.txt`
 3. Run `nbapredictor.ipynb` in Jupyter Notebook
-4. Enter team abbreviations to get win probability predictions
+4. Explore historical analysis and visualizations
+5. Use the prediction interface to forecast game outcomes
 
 ## Data Source
 
